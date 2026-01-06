@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "nome": "Iphone 15",
+    "categoria": "Smartphones",
+    "quantidade": 9,
+    "preco": 6210.5
+  },
+  {
+    "id": "2",
+    "nome": "Headset Logitech H390",
+    "categoria": "Perifericos",
+    "quantidade": 4,
+    "preco": 202.68
+  },
+  {
+    "id": "3",
+    "nome": "Mouse Trust Voca",
+    "categoria": "Perifericos",
+    "quantidade": 10,
+    "preco": 46.7
+  },
+  {
+    "id": "4",
+    "nome": "Carregador tipo C 45W",
+    "categoria": "Acessorios",
+    "quantidade": 4,
+    "preco": 39.89
+  }
+]
